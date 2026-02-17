@@ -46,7 +46,7 @@ function startProgress(totalMs) {
 }
 
 /* =========================
-   PART 1 — PROMISE FUNCTIONS
+   PART 1 - PROMISE FUNCTIONS
 ========================= */
 
 // Step 1: Get ingredients
@@ -101,7 +101,7 @@ function pourSmoothie() {
 }
 
 /* =========================
-   PART 2 — PROMISE CHAIN VERSION
+   PART 2 - PROMISE CHAIN VERSION
 ========================= */
 
 function makeSmoothieWithPromises() {
@@ -144,7 +144,7 @@ function makeSmoothieWithPromises() {
 }
 
 /* =========================
-   PART 3 — ASYNC/AWAIT VERSION
+   PART 3 - ASYNC/AWAIT VERSION
 ========================= */
 
 async function makeSmoothieAsync() {
